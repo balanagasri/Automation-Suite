@@ -184,38 +184,3 @@
 
       `mvn clean install -Dsuite-xml=test-suite\testng-lambdatestecommerce.xml -Dheadless=false`
 
-## :question: Need Assistance?
-
-- Discuss your queries by writing to me @ `mohammadfaisalkhatri@gmail.com`
-  OR ping me on any of the social media sites using the below link:
-    - [Linktree](https://linktr.ee/faisalkhatri)
-
-## :computer: Paid Trainings
-
-- Contact me for Paid trainings related to Test Automation and Software Testing,
-  mail me @ `mohammadfaisalkhatri@gmail.com` or ping me on [LinkedIn](https://www.linkedin.com/in/faisalkhatri/)
-
-## :thought_balloon: Checkout the blogs related to Testing written by me on the following links:
-
-- [Medium Blogs](https://medium.com/@iamfaisalkhatri)
-- [LambdaTest Blogs](https://www.lambdatest.com/blog/author/mfaisalkhatri/)
-- [My Website](https://mfaisalkhatri.github.io)
-
-## :computer: Recommended Proxies
-
-There are cases when proxies may be required to run the tests, this may happen when the software teams are working in
-isolation at different places.
-Residential proxies help in keeping the user’s information safe and help in hiding the real location of the user
-It acts as a middleman between the device and the internet and keep the users safe from being tracked.
-
-[NodeMaven](https://go.nodemaven.com/automation_proxy) provides high quality proxies with industry-first filtering,
-super sticky sessions and best customer support.
-Try out [NodeMaven](https://go.nodemaven.com/automation_proxy) now(_Use F86 at checkout to get extra 2GB of proxy_)
-
-## :bulb: Cloud platform supporter
-
-### Big thanks to **LambdaTest** for their support to the project with their open source license:
-
-<a href="http://www.lambdatest.com?fp_ref=faisal58" target="_blank" style="outline:none;border:none;"><img src="https://d2gdx5nv84sdx2.cloudfront.net/uploads/n3ufe5o3/marketing_asset/banner/6476/728_x_90.png" alt="lambdatest" border="0"/></a>
- 
- 
